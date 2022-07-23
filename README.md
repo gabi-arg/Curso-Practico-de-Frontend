@@ -1,2 +1,2 @@
-# Curso-Practico-de-Javascript
-Es un proyecto realizado con los conocimientos adquiridos en los curso de Platzi. Los cursos son: Curso Practico de Frontend, Curso Practico de Javascript, Curso practico de React.
+# Curso-Practico-Frontend-Developer
+Es una APP - e-Commers realizada en el curso de Frontend Developer TOmado en Platzi
