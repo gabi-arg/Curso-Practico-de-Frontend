@@ -19,6 +19,7 @@ body {
     gap: 26px;
     place-content: center;
 }
+
 .product-card {
     width: 240px;
 }
